@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
-	<img src="https://img2020.cnblogs.com/blog/1454456/202008/1454456-20200807153026821-1219041344.png" width="200px"/>
+	<img src="https://img2020.cnblogs.com/blog/1454456/202008/1454456-20200807153026821-1219041344.png" width="400px"/>
 </a>
 </p>
 
@@ -62,10 +62,8 @@ PDF可以在线预览，如果在线加载失败，可以先下载到本地阅�
 
 ## 微信
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
-	<img src="https://img2020.cnblogs.com/blog/1454456/202008/1454456-20200807153114033-1605861078.png" width="200px"/>
+	<img src="https://img2020.cnblogs.com/blog/1454456/202008/1454456-20200807153114033-1605861078.png" width="300px"/>
 </a>
 </p>
-![image-20200807152004243](https://img2020.cnblogs.com/blog/1454456/202008/1454456-20200807153114033-1605861078.png)
-
