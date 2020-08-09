@@ -47,8 +47,7 @@ Java并发进阶JUC原理解析篇
 JVM面试篇
 
 ### &#x1F427;分布式
-
-分布式基础面试篇
+<a href="https://github.com/FISHers6/CS-LogN/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E7%AF%87/%E5%88%86%E5%B8%83%E5%BC%8F%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98.md" target="blank">分布式基础面试篇</a>
 
 ---
 
