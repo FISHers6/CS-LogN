@@ -59,11 +59,34 @@ PDF可以在线预览，如果在线加载失败，可以先下载到本地阅�
 
 ---
 
+## Example
+
+使用导图对面试知识梳理，可以提高面试知识点复习效率
+比如《操作系统面试精华篇》中内存管理与进程管理的面试常考点，部分导图图片如下：
+
+<p align="left">
+<a href="#" target="_blank">
+	<img src="https://uploadfiles.nowcoder.com/compress/mw1000/images/20200807/971636388_1596786230667_F636C0302CAB6953334A918293261108" width="300px"/>
+	<img src="https://uploadfiles.nowcoder.com/compress/mw1000/images/20200807/971636388_1596786284618_E01C52B566DFF5A365BBD90D0E2AEDFA" width="300px"/>
+</a>
+</p>
+
+再比如Java-JVM常考面试题垃圾回收部分知识点：
+
+
+<p align="left">
+<a href="#" target="_blank">
+	<img src="https://uploadfiles.nowcoder.com/images/20200809/971636388_1596935145300_26E4EAC171E10B6DF43F528368C06CBE" width="300px"/>
+</a>
+</p>
+
+
+
 
 ## 微信
 
 <p align="left">
-<a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
+<a href="#" target="_blank">
 	<img src="https://img2020.cnblogs.com/blog/1454456/202008/1454456-20200807153114033-1605861078.png" width="300px"/>
 </a>
 </p>
