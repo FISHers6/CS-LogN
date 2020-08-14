@@ -85,3 +85,4 @@ PDF可以在线预览，如果在线加载失败，可以先下载到本地阅�
 	<img src="https://github.com/FISHers6/CS-LogN/blob/master/image/wechat.png" width="300px"/>
 </a>
 </p>
+![](https://github.com/FISHers6/CS-LogN/blob/master/image/wechat.png)
