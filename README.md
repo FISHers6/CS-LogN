@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
+<a href="#" target="_blank">
 	<img src="https://img2020.cnblogs.com/blog/1454456/202008/1454456-20200807153026821-1219041344.png" width="400px"/>
 </a>
 </p>
