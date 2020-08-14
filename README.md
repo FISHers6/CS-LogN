@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="#" target="_blank">
-	<img src="https://github.com/FISHers6/CS-LogN/blob/master/image/logo.png" width="400px"/>
+	<img src="https://img2020.cnblogs.com/blog/1454456/202008/1454456-20200807153026821-1219041344.png" width="400px"/>
 </a>
 </p>
 
@@ -85,4 +85,3 @@ PDF可以在线预览，如果在线加载失败，可以先下载到本地阅�
 	<img src="https://github.com/FISHers6/CS-LogN/blob/master/image/wechat.png" width="300px"/>
 </a>
 </p>
-![](https://github.com/FISHers6/CS-LogN/blob/master/image/wechat.png)
