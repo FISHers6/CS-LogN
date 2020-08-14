@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="#" target="_blank">
-	<img src="https://img2020.cnblogs.com/blog/1454456/202008/1454456-20200807153026821-1219041344.png" width="400px"/>
+	<img src="https://github.com/FISHers6/CS-LogN/blob/master/image/logo.png" width="400px"/>
 </a>
 </p>
 
@@ -58,15 +58,15 @@ JVM面试篇
 比如《操作系统面试精华篇》中内存管理与进程管理的面试常考点，部分导图图片如下：
 
 <p align="left">
-<img src="https://img2020.cnblogs.com/blog/1454456/202008/1454456-20200814092811486-145240572.png" width=""/>
-<img src="https://img2020.cnblogs.com/blog/1454456/202008/1454456-20200814092741203-1305516520.png" width=""/>
+<img src="https://github.com/FISHers6/CS-LogN/blob/master/image/memory1.png" width=""/>
+<img src="https://github.com/FISHers6/CS-LogN/blob/master/image/memory2.png" width=""/>
 </p>
 
 再比如Java-JVM常考面试题垃圾回收部分知识点：
 
 
 <p align="left">
-<img src="https://img2020.cnblogs.com/blog/1454456/202008/1454456-20200814092836080-1355305143.png" width=""/>
+<img src="https://github.com/FISHers6/CS-LogN/blob/master/image/jvm1.png" width=""/>
 </p>
 
 
@@ -82,6 +82,6 @@ PDF可以在线预览，如果在线加载失败，可以先下载到本地阅�
 
 <p align="left">
 <a href="#" target="_blank">
-	<img src="https://img2020.cnblogs.com/blog/1454456/202008/1454456-20200807153114033-1605861078.png" width="300px"/>
+	<img src="https://github.com/FISHers6/CS-LogN/blob/master/image/wechat.png" width="300px"/>
 </a>
 </p>
